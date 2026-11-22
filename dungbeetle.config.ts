@@ -8,7 +8,7 @@ import type { GeneratorConfig } from "./tools/generator/config.js";
  * in `src/resources/users.ts` before replacing it.
  */
 const config: GeneratorConfig = {
-	spec: "https://raw.githubusercontent.com/grMLEqomlkkU5Eeinz4brIrOVCUCkJuN/strava-dung-beetle/refs/heads/master/strava3.json",
+	spec: "https://raw.githubusercontent.com/grmlqSOTFTtk/strava-dung-beetle/refs/heads/master/strava3.json",
 
 	// Names the path rules read wrongly, and two endpoints that would collide.
 	names: {},
